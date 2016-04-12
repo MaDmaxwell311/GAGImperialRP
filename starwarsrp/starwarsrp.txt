@@ -1,13 +1,13 @@
 "starwarsrp"
 {
-	"base"		"sandbox"
+    "base"   "sandbox"
     "title"  "StarwarsRP"
     "version"   "2.6.2"
     "menusystem"	"1"
 
-    "author_name"   "FPtje Falco et al."
-    "author_email"  ""
-    "author_url"    "https://github.com/FPtje/DarkRP"
+    "author_name"   "Maxwell and Liam"
+    "author_email"  "grandarmygaminggmod@gmail.com"
+    "author_url"    "https://github.com/MaDmaxwell311/GAGImperialRP"
 
     "icon"  ""
     "info"  ""
